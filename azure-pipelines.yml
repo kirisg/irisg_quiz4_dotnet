@@ -7,7 +7,7 @@ trigger:
   - main
 
 pool:
-  name: quiz4_agent  
+  name: Default  
 
 variables:
   buildConfiguration: 'Release'
